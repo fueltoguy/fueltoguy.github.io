@@ -411,7 +411,7 @@
     #all-assignments-page #assignments-page-wrapper #course-sec .lesson-header .lesson-status {
         color: #000 !important;
     }
-    .monaco-editor {
+    .monaco-editor .monaco-editor-background, .monaco-editor .inputarea.ime-input {
         background-color: #000 !important;
     }
         
