@@ -411,3 +411,7 @@
     #all-assignments-page #assignments-page-wrapper #course-sec .lesson-header .lesson-status {
         color: #000 !important;
     }
+    .monaco-editor {
+        background-color: #000 !important;
+    }
+        
