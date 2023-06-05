@@ -1,0 +1,1 @@
+javascript:(function(){var link=document.createElement("link");link.rel="stylesheet",link.type="text/css",link.href="https://fueltoguy.github.io/lunerhs.css",document.getElementsByTagName("HEAD")[0].appendChild(link);}());
