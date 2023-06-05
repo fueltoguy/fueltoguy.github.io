@@ -1,12 +1,3 @@
-/* ==UserStyle==
-@name           Lunerhs
-@namespace      idfk
-@version        2.0
-@description    a luner codehs theme
-@author         Fueltoguy
-@updateURL  https://raw.githubusercontent.com/fueltoguy/lunerhs/main/lunerhs.css
-==/UserStyle== */
-@-moz-document domain("codehs.com") {
     #ace-editor {
         background-color: #0009 !important;
     }
@@ -420,4 +411,3 @@
     #all-assignments-page #assignments-page-wrapper #course-sec .lesson-header .lesson-status {
         color: #000 !important;
     }
-}
