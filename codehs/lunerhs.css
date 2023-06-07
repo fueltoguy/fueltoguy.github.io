@@ -414,4 +414,9 @@
     .monaco-editor .monaco-editor-background, .monaco-editor .inputarea.ime-input {
         background-color: #000 !important;
     }
+
+.xterm-wrapper.__abacus_dark-mode {
+    background-color: #000c !important;   
+}
+    
         
