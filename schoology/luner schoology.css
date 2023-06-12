@@ -228,3 +228,8 @@ body {
 	.lrn_widget .lrn_valid, .lrn_widget .lrn_selected {
 		background-color: #00f5 !important;
 	}
+
+	* {
+		scrollbar-width: auto !important;
+		scrollbar-color: #f91 #000 !important;
+    	}
