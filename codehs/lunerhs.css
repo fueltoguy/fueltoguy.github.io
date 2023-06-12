@@ -418,5 +418,11 @@
     .xterm-wrapper.__abacus_dark-mode {
         background-color: #000c !important;   
     }
+
+    * {
+        scrollbar-width: auto !important;
+        scrollbar-color: #f91 #000 !important;
+    }
+
     
         
